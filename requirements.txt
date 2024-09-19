@@ -1,0 +1,5 @@
+slack_bolt
+fastapi
+uvicorn
+requests
+python-dotenv
